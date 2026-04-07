@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "projectType": "vue-agentic",
+  "skillsPath": "../.agents/skills",
+  "docsPath": "../wiki"
+}
