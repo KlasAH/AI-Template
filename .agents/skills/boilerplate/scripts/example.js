@@ -1,5 +1,1 @@
-// Boilerplate example script for a skill
-console.log("Boilerplate skill executed successfully.");
-module.exports = function() {
-    return true;
-};
+console.log("Boilerplate script executed successfully. Use this format for future agent logic.");

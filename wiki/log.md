@@ -1,8 +1,10 @@
-# Agent Execution Log
+# Agent Execution Log (Audit Trail)
 
-This log ensures Gemini can look back at what was previously decided or modified to avoid repeating mistakes or redundant work.
+This is a chronological log of Gemini's actions in this repository. 
+Every major change you (Gemini) make to the logic, components, or physics must be recorded here.
 
-## Entry Format
-- **Date**: [YYYY-MM-DD]
-- **Task**: [What was achieved]
-- **Files Modified**: [List of key files]
+## Entry Template
+**Date**: [YYYY-MM-DD]
+**Task**: [What was achieved]
+**Files Modified**: 
+- [File paths]
